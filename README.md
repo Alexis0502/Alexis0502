@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- [ ] Pronouns He/Him
+- [ ] Fun Fact: My favorite animal is the walrus
+- [ ] Porsche 911 😄
 <!--
 **Alexis0502/Alexis0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
